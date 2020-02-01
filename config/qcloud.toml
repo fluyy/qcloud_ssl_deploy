@@ -1,0 +1,11 @@
+[qcloud_conf]
+secret_id = "your secret id"
+secret_key= "your secret key"
+
+[[domain_list]]
+cert_file="your cert file"
+cert_private="your cert private key"
+domain_list=["your.domain"]
+
+
+
